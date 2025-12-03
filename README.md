@@ -7,7 +7,9 @@
 
 
 # How it was done
-- Database with 8 tables.
-- Each table should have at least 5 records (rows), including two.
-- Tables with at least 50 records and several meaningful constraints.
-- Created 3 views, 3 triggers, 3 procedures, 1 function, and 5 SQL queries that demonstrate the capabilities of the database.
+- Database with 8 tables
+- Each table should have at least 5 records (rows), including two
+- Tables with at least 50 records and several meaningful constraints
+- Used primary and foreign key for IDs to not repeat the same date in order to save space, speed up operation and make the database easier to use
+- Created 3 views, 3 triggers, 3 procedures, 1 function, and 5 SQL queries that demonstrate the capabilities of the database
+- Used MSQL
